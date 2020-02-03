@@ -1,12 +1,12 @@
 # Cheat Sheet
 
-### A quick refrence to the Markdown syntax
+### A quick reference to the Markdown syntax
 
 ## Over view
 
-This markdown cheat sheet provides ovweview of all the Mark down syntax 
+This markdown cheat sheet provides overview of all the Mark down syntax 
 elements. It can't cover every edge case, so if you need more information about any of these 
-elements, refer to our refrence guides for [basic syntax](http://www.basicsyntax.com) and [extended syntax](http://www.extendedsyntax).
+elements, refer to our reference guides for [basic syntax](BasicSyntax.md) and [extended syntax](ExtendedSyntax.md).
 
 ## Basic Syntax
 
